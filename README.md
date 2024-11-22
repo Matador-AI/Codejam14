@@ -51,16 +51,12 @@ You can implement any features you want to include in your tool. Here are some s
    - Example: A chatbot that interprets user needs and responds conversationally:  
      - *“Hi there! Looking for a new ride? Tell me what you need, and I’ll find it for you!”*
 
-2. **Voice-Activated Search Tool:**  
-   - Example: A tool like Alexa or Siri where users can say:  
-     - *“Find me a hybrid SUV with great safety features.”*
-
-3. **Conversational Vehicle Explorer:**  
+2. **Conversational Vehicle Explorer:**  
    - Example: A system that lets users ask exploratory questions:
      - *“What’s the difference between AWD and FWD?”*
      - *“Do you have any trucks with under 50,000 miles in blue?”*
 
-4. **Dynamic Follow-Up Assistant:**  
+3. **Dynamic Follow-Up Assistant:**  
    - Example: A tool that reacts to user responses and tailors further questions:  
      - User: *“I like this one, but do you have it in black?”*  
        Tool: *“Yes! The black model is $500 more but has the same features. Want to see photos?”*
