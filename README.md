@@ -71,4 +71,3 @@ You can implement any features you want to include in your tool. Here are some s
 - The project should use the dataset provided.
 - The tool should **understand and respond conversationally** to user queries.
 - NLP should enable natural, flexible communication, handling ambiguous or incomplete inputs gracefully.
-- Users should feel like they’re talking to a helpful car expert, enhancing trust and engagement. 🚀
