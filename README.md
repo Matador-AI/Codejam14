@@ -7,7 +7,7 @@ Design an **AI-powered tool** that helps customers discover their perfect vehicl
 
 #### 🎯 Flexible Key Features:
 
-You can implement any features you want to include in your tool. Here are some suggestions:
+You can implement any features you want to include in your tool. Here are some recommendations:
 
 1. **💬 Conversational Interface:**
    - Enable users to interact naturally, as if speaking to a car expert. Examples:
@@ -64,6 +64,12 @@ You can implement any features you want to include in your tool. Here are some s
 ---
 
 #### 🏆 Success Criteria:
-- The project should use the dataset provided.
+- The project should use the **dataset provided**.
 - The tool should **understand and respond conversationally** to user queries.
 - NLP should enable natural, flexible communication, handling ambiguous or incomplete inputs gracefully.
+
+---
+
+Resources:
+- The dataset is available both as a CSV and JSON file.
+- Another md file is available, explaining what each datapoint means.
