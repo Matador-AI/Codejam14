@@ -1,68 +1,60 @@
-3. Q: "I need a pickup truck with 4WD, leather seats, and under 50,000 km."
+1. Q: "I need a pickup truck with 4WD, leather seats, and under 50,000 km."
 A: "We don't have a pickup truck with leather seats under 50,000 km at the moment, but here are some alternatives: a 2021 Ford F-150 with 4WD, leather seats, and 55,000 km, or a 2020 Chevrolet Silverado with 4WD, cloth seats, and 45,000 km. Would either of these work for you?"
 
-7. Q: "Do you have a sporty car with a sunroof and under 50,000 km?"
+2. Q: "Do you have a sporty car with a sunroof and under 50,000 km?"
 A: "Yes, the 2021 Mazda3 Hatchback fits your criteria. It's sporty, has a sunroof, and only 32,000 km. Shall I share more details?"
 
-4. Q: "Do you have a red convertible under 30,000 km?"
+3. Q: "Do you have a red convertible under 30,000 km?"
 A: "We don't have a red convertible under 30,000 km right now, but here are some alternatives: a 2021 Mazda MX-5 Miata in dark orange with 32,000 km or a 2020 Ford Mustang in bright red with 35,000 km. Should we explore one of these options?"
 
-6. Q: "Do you have a family SUV with leather seats and low mileage?"
+4. Q: "Do you have a family SUV with leather seats and low mileage?"
 A: "We don't have a family SUV with leather seats and low mileage at the moment. A good alternative is the 2020 Toyota Highlander with cloth seats and 30,000 km. Would you like to hear more options?"
 
-8. Q: "Do you have an electric car with a range of at least 300 miles and advanced safety features?"
+5. Q: "Do you have an electric car with a range of at least 300 miles and advanced safety features?"
 A: "The 2022 Tesla Model 3 has a range of 358 miles and includes features like Autopilot. Would you like more information?"
 
-9. Q: "I'm looking for an SUV with captain's chairs and a panoramic sunroof."
+6. Q: "I'm looking for an SUV with captain's chairs and a panoramic sunroof."
 A: "The 2021 Hyundai Palisade offers captain's chairs and a panoramic sunroof. Would you like to see more details?"
 
-10. Q: "Do you have a minivan with stow-and-go seating and rear-seat entertainment?"
+7. Q: "Do you have a minivan with stow-and-go seating and rear-seat entertainment?"
 A: "The 2020 Chrysler Pacifica offers stow-and-go seating and a rear-seat entertainment system. Would you like more information?"
 
-11. Q: "I'm looking for a high-performance car with launch control and Brembo brakes."
+8. Q: "I'm looking for a high-performance car with launch control and Brembo brakes."
 A: "The 2022 Dodge Charger SRT fits your criteria with launch control and Brembo brakes. Interested in learning more?"
 
-12. Q: "Do you have the car with VIN 1HGCM82633A123456?"
+9. Q: "Do you have the car with VIN 1HGCM82633A123456?"
 A: "Yes, the car with VIN 1HGCM82633A123456 is a 2020 Honda Accord. It has 25,000 km, leather seats, and is priced at $28,000. Would you like more details or to schedule a test drive?"
 
-13. Q: "I'm looking for the car with VIN 5FNYF6H57LB789012."
+10. Q: "I'm looking for the car with VIN 5FNYF6H57LB789012."
 A: "Unfortunately, the car with VIN 5FNYF6H57LB789012 has already been sold. However, I can help you find a similar option. Are you looking for another Honda Pilot?"
 
-14. Q: "Do you have an SUV with off-road capabilities, a roof rack, and skid plates?"
+11. Q: "Do you have an SUV with off-road capabilities, a roof rack, and skid plates?"
 A: "Yes, the 2022 Toyota 4Runner TRD Pro comes with off-road capabilities, a roof rack, and skid plates. It's perfect for adventures. Would you like more information?"
 
-15. Q: "Do you have an SUV with remote start, a heated steering wheel, and a power liftgate?"
+12. Q: "Do you have an SUV with remote start, a heated steering wheel, and a power liftgate?"
 A: "The 2020 Ford Explorer features remote start, a heated steering wheel, and a power liftgate. It's priced at $37,000. Would you like to learn more?"
 
-16. Q: "I'm looking for an SUV with third-row seating."
+13. Q: "I'm looking for an SUV with third-row seating."
 A: "Got it! Do you have a preference for features like leather seats, a backup camera, or low mileage?"
 
-17. Q: "Do you have a hybrid SUV?"
+14. Q: "Do you have a hybrid SUV?"
 A: "Sure! Would you like me to prioritize fuel efficiency, technology features, or budget?"
 
-18. Q: "I want something fun to drive."
+15. Q: "I want something fun to drive."
 A: "When you say fun, are you thinking sporty performance, off-road capabilities, or maybe a convertible SUV?"
 
-19. Q: "I currently drive a 2018 Toyota Camry. Do you have anything similar?"
+16. Q: "I currently drive a 2018 Toyota Camry. Do you have anything similar?"
 A: "Yes, we have a 2020 Honda Accord. It's a midsize sedan with similar reliability and comfort features, priced at $27,000. Would you like more details?"
 
-20. Q: "I'm driving a 2018 Hyundai Tucson right now. Any similar SUVs in stock?"
+17. Q: "I'm driving a 2018 Hyundai Tucson right now. Any similar SUVs in stock?"
 A: "The 2021 Hyundai Santa Fe would be a great choice, offering similar reliability but more space and updated tech features. Interested in exploring it further?"
 
-21. Q: "I'm looking for a fun car to drive."
+18. Q: "I'm looking for a fun car to drive."
 A: "When you say fun, are you thinking of a sports car, a convertible, or something sporty like a hatchback?"
 Q: "Do you prefer something classic like the Ford Mustang, or smaller and more nimble like the Mazda MX-5 Miata?"
 A: "The 2021 Mazda MX-5 Miata is a fantastic choice. It includes a manual transmission, heated seats, and a Bose sound system. Would you like to schedule a test drive?"
 
-22. Q: "I want an electric car."
+19. Q: "I want an electric car."
 A: "Sure! Are you looking for a sedan, an SUV, or something compact?"
 Q: "Do you need a range of over 300 miles, or is something slightly lower acceptable?"
 A: "The 2022 Tesla Model Y has a 330-mile range, advanced autopilot features, and a spacious interior. Would you like to see pricing or schedule a test drive?"
-
-23. Q: "I’m looking for an electric SUV with great range and luxury features. What do you recommend?"
-A: "The Tesla Model X and Audi e-tron are two excellent options. Do you have a preference for a specific range or brand?"Q: "Would you prefer a range of over 300 miles, or are you okay with something slightly lower?"
-A: "The Tesla Model X offers a range of 340 miles, while the Audi e-tron provides 222 miles but focuses more on luxury and craftsmanship. Which aspect is more important to you?"
-Q: "Do you need seating for more than five passengers, or is a standard two-row SUV fine?"
-A: "The Tesla Model X offers three rows of seating for up to seven passengers, while the Audi e-tron has two rows with room for five. Does this help narrow down your preference?"
-Q: "Would you like to focus on specific features like autopilot capabilities, advanced sound systems, or towing capacity?"
-A: "The Tesla Model X includes Tesla’s advanced autopilot and a 5,000-lb towing capacity, while the Audi e-tron excels in sound and interior luxury with a Bang & Olufsen sound system. Which features are your priority?"
