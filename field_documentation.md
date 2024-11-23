@@ -185,7 +185,7 @@ This document provides detailed information about each field in the vehicle data
 - **Format**: Integer (USD)
 - **Example**: 18498
 
-### MSRP
+### MSRP. Can be ignored.
 - **Description**: Manufacturer's Suggested Retail Price
 - **Format**: Integer (USD)
 - **Example**: 35000
