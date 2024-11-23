@@ -50,11 +50,11 @@ A: "Yes, we have a 2020 Honda Accord. It's a midsize sedan with similar reliabil
 A: "The 2021 Hyundai Santa Fe would be a great choice, offering similar reliability but more space and updated tech features. Interested in exploring it further?"
 
 18. Q: "I'm looking for a fun car to drive."
-A: "When you say fun, are you thinking of a sports car, a convertible, or something sporty like a hatchback?"
-Q: "Do you prefer something classic like the Ford Mustang, or smaller and more nimble like the Mazda MX-5 Miata?"
-A: "The 2021 Mazda MX-5 Miata is a fantastic choice. It includes a manual transmission, heated seats, and a Bose sound system. Would you like to schedule a test drive?"
+A: "That sounds exciting! When you say fun, are you imagining a sporty convertible, a powerful sports car, or maybe something nimble like a hot hatch?"
+Q: "I'm not sure. What do you recommend?"
+A: "If you enjoy open-top driving and a responsive ride, the Mazda MX-5 Miata is a fantastic option. It features a manual transmission for an engaging drive, heated seats for comfort, and a premium Bose sound system. Would you like to schedule a test drive?"
 
 19. Q: "I want an electric car."
-A: "Sure! Are you looking for a sedan, an SUV, or something compact?"
-Q: "Do you need a range of over 300 miles, or is something slightly lower acceptable?"
-A: "The 2022 Tesla Model Y has a 330-mile range, advanced autopilot features, and a spacious interior. Would you like to see pricing or schedule a test drive?"
+A: "Great choice! Are you leaning toward a sleek sedan, a spacious SUV, or something compact for city driving?"
+Q: "I need something with a long range. What do you suggest?"
+A: "The 2022 Tesla Model Y might be perfect for you. It offers a 330-mile range, advanced autopilot features, and plenty of space for passengers and cargo. Would you like to see pricing or book a test drive?"
